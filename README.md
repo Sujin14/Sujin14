@@ -1,21 +1,40 @@
-![Hey there, I'm Sujin](https://raw.githubusercontent.com/Sujin14/Sujin14/master/assets/header.gif)
+![github banner](github.png)
 
 # 👋 &nbsp;Hey, I'm **Sujin K Suresh**
 
 I'm a **Flutter Developer** from **Kerala, India** — passionate about building modern, fast, and meaningful mobile experiences.  
 I’ve been coding for over **3 years**, and for the past year I’ve been deep in the **Flutter ecosystem**, shaping ideas into products that people actually use.
 
-> “Build, break, learn — repeat until it feels like magic.”
+> “Code. Learn. Iterate. Repeat.”  
+> ⚡ *Build, break, learn — until it feels like magic.*
 
 ---
 
 ## 🚀 &nbsp;What I’m working on
 
 - 🧠 **[YeetFit](https://github.com/Sujin14/yeetfit)** — A personal fitness tracker built with Flutter + Firebase  
+  🔗 [Live App](https://apkpure.net/yeetfit/com.sujin.yeetfit)
 - ⚙️ **[YeetFit Admin](https://github.com/Sujin14/yeetfit_admin)** — Admin control panel for managing YeetFit users and data  
+  🔗 [Live App](https://apkpure.net/yeetfit-admin/com.example.yeetfit_admin)
 - 🎧 **[Z Play](https://github.com/Sujin14/Z-Play)** — A clean music player app built on modern Flutter architecture  
+  🔗 [Live App](https://apkpure.net/z-play/com.sujin.musicplayer)
 
 > 💡 Each of these is a playground for pushing architecture, design, and performance — not just another CRUD app.
+
+---
+
+## 🧠 &nbsp;My Skillset Matrix
+
+| Domain | Skills | Rating |
+|--------|---------|--------|
+| 🎨 **Frontend & UI** | Flutter, Dart, ScreenUtil, Animations | ⭐⭐⭐⭐☆ |
+| ⚙️ **State Management** | Riverpod, Provider, GetX | ⭐⭐⭐⭐⭐ |
+| 🔥 **Backend & Cloud** | Firebase Auth, Firestore, Node.js | ⭐⭐⭐⭐☆ |
+| 🧩 **Architecture & Navigation** | MVVM, Clean Arch, GoRouter | ⭐⭐⭐⭐☆ |
+| 🧠 **Problem Solving** | LeetCode, Logic Building | ⭐⭐⭐⭐☆ |
+| 🧰 **Tools** | VSCode, Android Studio, Git, GitHub | ⭐⭐⭐⭐⭐ |
+
+> 🧡 Constantly levelling up in **app performance**, **clean code**, and **scalable architectures**.
 
 ---
 
@@ -35,7 +54,7 @@ I’ve been coding for over **3 years**, and for the past year I’ve been deep 
 
 ---
 
-## 🧠 &nbsp;What Drives Me
+## 💡 &nbsp;What Drives Me
 
 I love solving logical problems, designing scalable app architecture, and mentoring others to build a stronger **developer culture**.  
 Outside of Flutter, you’ll find me reading, tackling **LeetCode** challenges, and experimenting with automation and system design.
@@ -51,43 +70,24 @@ Outside of Flutter, you’ll find me reading, tackling **LeetCode** challenges, 
 
 ---
 
-## ⚡ &nbsp;Quick Facts
-
-- 🌱 Currently mastering **advanced Flutter architectures** & clean code principles  
-- 🧩 Love experimenting with **Firebase integrations & automation workflows**  
-- 💬 Ask me about **Flutter, app structure, state management, or Firebase**  
-- 🖤 I like dark themes, clean UIs, and precise animations  
-- 💡 Motto: *Write less. Build more. Learn always.*
-
----
-
-## 🎯 &nbsp;Let’s Connect
+## 🎯 &nbsp;Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sujin-k-suresh-1200b7285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Sujin14" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:sujinksuresh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/sujinsuresh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧩 &nbsp;Live Apps (Coming Soon)
-
-Once deployed, I’ll list direct Play Store / web demo links for each project here 👇  
-- 🔗 **YeetFit** — (in progress)  
-- 🔗 **YeetFit Admin** — (in progress)  
-- 🔗 **Z Play** — (in progress)
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa5&height=120&section=footer&animation=twinkling"/>
 </p>
